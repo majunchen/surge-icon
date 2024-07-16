@@ -4,5 +4,10 @@
      { "name": "surge", "url": "https://github.com/mieqq/mieqq/blob/master/surge.png?raw=true"},
      { "name": "bear", "url": "https://raw.githubusercontent.com/majunchen/surge-icon/main/IMG_9072.png?raw=true"},
      { "name": "apple", "url": "https://github.com/majunchen/surge-icon/blob/a2287632d6301cc58d85d55f116f2027fb44de1b/apple.png?raw=true"},
+     { "name": "bilibili", "url": "https://github.com/majunchen/surge-icon/blob/6b7331854610bd0f37e7cd9e0e5d1bcf010c7dc7/bilibili.png?raw=true"}, 
+     { "name": "disney", "url": "https://github.com/majunchen/surge-icon/blob/6b7331854610bd0f37e7cd9e0e5d1bcf010c7dc7/disney.png?raw=true"},   
+     { "name": "netflix", "url": "https://github.com/majunchen/surge-icon/blob/6b7331854610bd0f37e7cd9e0e5d1bcf010c7dc7/netflix.png?raw=true"},
+     { "name": "speedtest", "url": "https://github.com/majunchen/surge-icon/blob/6b7331854610bd0f37e7cd9e0e5d1bcf010c7dc7/speedtest.png?raw=true"},   
+     { "name": "wechat", "url": "https://github.com/majunchen/surge-icon/blob/6b7331854610bd0f37e7cd9e0e5d1bcf010c7dc7/wechat.png?raw=true"}, 
     ]
 }
