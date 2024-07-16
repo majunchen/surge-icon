@@ -11,6 +11,7 @@
      { "name": "wechat", "url": "https://github.com/majunchen/surge-icon/blob/639137ba7ab0211d8a23e914eb8be6e0e713e09d/wechat.png?raw=true"},
      { "name": "tiktok", "url": "https://github.com/majunchen/surge-icon/blob/ca0e4063c2da8c369d725a8a4c7aadb2aef9cfa6/tiktok.png?raw=true"},
      { "name": "youtube", "url": "https://github.com/majunchen/surge-icon/blob/875ee7328449e78a302d931e752d909267077ab8/youtube.png?raw=true"},
-     { "name": "chatgpt", "url": "https://github.com/majunchen/surge-icon/blob/0e2c39b28020920c256407f97e93a9b5b042a3c5/chatgpt.png?raw=true"},   
+     { "name": "chatgpt", "url": "https://github.com/majunchen/surge-icon/blob/0e2c39b28020920c256407f97e93a9b5b042a3c5/chatgpt.png?raw=true"},
+     { "name": "microsoft", "url": "https://github.com/majunchen/surge-icon/blob/df67c43afc0976294f595dd03e672b4f0adbd089/microsoft.png?raw=true"},   
     ]
 }
